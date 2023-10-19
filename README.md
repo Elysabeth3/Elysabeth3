@@ -57,7 +57,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"> 
+<img height=60px src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> 
 </td>
 
 <td align="center" width="33%">
