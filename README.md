@@ -75,9 +75,6 @@
 <hr>
 ## Connect with me. :smiley:
 <p>
-<a href="https://github.com/Elysabeth3"><img src="https://img.shields.io/badge/-Elysabeth3-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/elisabeth-arjona-badia-858700276/"><img src="https://img.shields.io/badge/-Elisabeth_Arjona_Badia-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.instagram.com/elysabeth_3/"><img src="https://img.shields.io/badge/-Elysabeth_3-pink?logo=instagram&style=flat-square"/></a>
 <a href="mailto:Elisabetharjona3@gmail.com"><img src="https://img.shields.io/badge/-elisabetharjona3@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/Elysabeth_3"><img src="https://img.shields.io/twitter/follow/Elysabeth_3?logo=Twitter&style=flat-square"/></a>
 </p>
